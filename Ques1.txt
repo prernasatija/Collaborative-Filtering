@@ -1,0 +1,2 @@
+User Based Rating for 10th user, 10th item = 4.3882
+Item Based Rating for 10th user, 10th item = 4.2843

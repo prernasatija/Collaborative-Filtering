@@ -1,0 +1,7 @@
+Without svd
+User Based Rating = 4.0067
+Item Based Rating = 3.9908
+
+With svd
+item based = 4.5006
+item based = 4.0139
